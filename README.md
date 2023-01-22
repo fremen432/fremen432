@@ -1,3 +1,4 @@
 ![example workflow](https://www.codewars.com/users/fremen432/badges/large)
 [Check me out on Codewars!](https://www.codewars.com/users/fremen432)
-### print("Hello GitHub 👋")
+<!-- ### print("Hello GitHub 👋") -->
+### Hello GitHub 👋
